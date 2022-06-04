@@ -58,7 +58,7 @@ https://trello.com/invite/b/wjaoCHrO/f37297c6e1ee1ccad614119dc288090d/sprint-2
 
 - **Ürün Durumu**: Ekran görüntüleri:
 (https://docs.google.com/document/d/1-9IxhlkLTkdtL2B224Fhd5KfFmLvLQxq/edit?usp=sharing&ouid=106093366023151313628&rtpof=true&sd=true)
-- **Sprint Review**: 
+- **Sprint Review**:
 Alınan kararlar: 
    Modelleme sürecinin başlangıcında modellerin kendi içinde tasarımsal tutarlılıklarını ve scale oranlarını ayarlama konusunda problem yaşanmıştır çünkü ortak belirlenmesi gereken bazı konularda yoğunluklar nedeniyle takım buluşmalarında zorluklar yaşanmıştır. Çözüm olarak ise, ekip üyeleriyle hem blender hem de unity içerisinde geçerli olacak bir scale oranı belirlenmiş ve takım içi iletişim arttırılmıştır. 
    Ürünlerin çalışma ve test aşamalarında bir problem yaşanmamıştır. Bir sonraki sprintte oyunun design genre’sına karar verilmesine ve 2d sketchler üzerinden 3d tasarıma başlanmasına karar verilmiştir.
