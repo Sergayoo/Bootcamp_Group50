@@ -89,7 +89,8 @@ Alınan kararlar:
 
 - **Sprint board update**: Sprint board screenshotları ve link:
  https://trello.com/invite/b/wjaoCHrO/f37297c6e1ee1ccad614119dc288090d/sprint-2
- ![sprint2trello](https://user-images.githubusercontent.com/103963591/169894132-61f88b5b-c09f-4efc-a124-ac0b17c92b8b.png)  
+ ![sprint2trello](https://user-images.githubusercontent.com/103963591/169894132-61f88b5b-c09f-4efc-a124-ac0b17c92b8b.png)
+ https://trello.com/invite/b/TcMn4Iu9/df11bf713964cfea5410d8df411e78e0/sprint-3
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
