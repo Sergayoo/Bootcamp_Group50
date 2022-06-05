@@ -53,7 +53,8 @@ https://trello.com/invite/b/wjaoCHrO/f37297c6e1ee1ccad614119dc288090d/sprint-2
 - **Daily Scrum**: Daily Scrum toplantılarının Discord, Whatsapp ve Google Meet üzerinden yapılmasına karar verilmiştir. Word dosyası olarak düzenlenmiş ve Google Drive linki aşağıya eklenmiştir: 
 (https://docs.google.com/document/d/1vGqFczo1RR3U6vE5qVhFaj_4dGfDfOQ_/edit?usp=sharing&ouid=106093366023151313628&rtpof=true&sd=true)
 
-- **Sprint board update**: Sprint board screenshotları: 
+- **Sprint board update**: Sprint board screenshotları:
+-  https://trello.com/invite/b/TcMn4Iu9/df11bf713964cfea5410d8df411e78e0/sprint-3
 (https://docs.google.com/document/d/1Xj4P2UkRsksIc9sdmn0tkVmRRNyHX6kb/edit?usp=sharing&ouid=106093366023151313628&rtpof=true&sd=true)
 
 - **Ürün Durumu**: Ekran görüntüleri:
